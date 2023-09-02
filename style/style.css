@@ -1,0 +1,25 @@
+
+/* link-url('../font-family: 'Open Sans', sans-serif;') */
+/* heading section css */
+
+.heading{
+    background:#de8699;
+}
+.header{
+    display: flex;
+}
+.head-describe{
+    margin-top: 300px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+    margin-left: 80px;
+}
+.header-image{
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+}
+.head{
+
+}
