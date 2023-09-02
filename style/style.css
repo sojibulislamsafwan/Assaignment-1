@@ -31,6 +31,11 @@ padding: 5px, 5px, 0px, 0px ;
 .primary-btn{
 text-align: center;
 background-color:#E55473;
+border: none;
+border-radius:5px;
+width: 100px;
+height: 30px;
+color: white;
 }
 .header-img{
     padding: 5px, 5px,0px,5px;
@@ -53,6 +58,7 @@ text-align:center ;
 .describe-one{
     text-align: center;
     margin-bottom:10px ;
+    color: lightgrey;
 
 }
 /* photo section */
@@ -68,15 +74,39 @@ text-align:center ;
 
 .photo-1{
     background-color:#f4c7d1;
-    margin-right: 20px;
+    margin-right: 30px;
+    border-radius: 200px 200px 0px 0px;
+    padding: 30px;
+    border: 5px;
+}
+.tree{
+    margin-left: -500px;
+    text-decoration-line: underline;
+    margin-top: -30px;
 }
 .photo-2{
     background-color:#b7e0e2 ;
     margin-right: 20px;
-}
+    border: 5px;
+    border-radius: 200px 200px 0px 0px;
+    padding: 30px;
+    }
+    .tree-1{
+    margin-left: 200px;
+    text-decoration-line: underline;
+    margin-top: -40px;
+    }
 .photo-3{
     background-color: #badd96;
     margin-right: 20px;
+    border: 5px;
+    border-radius: 200px 200px 0px 0px;
+    padding: 30px;
+}
+.tree-2{
+    margin-left: 1000px;
+    text-decoration-line: underline;
+    margin-top: -40px; 
 }
 /* delivary section  */
 .delivary{
@@ -84,6 +114,8 @@ text-align:center ;
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
+    margin-top: 20px;
+    padding: 40px;
 }
 .delivary-type{
     display: flex;
@@ -106,6 +138,9 @@ text-align:center ;
 }
 .deal-img{
 
+}
+#dealp{
+    text-align: justify;
 }
 /* instagram */
 .instragram{
@@ -143,12 +178,15 @@ text-align:center ;
     
     
 }
+.input-field{
+    margin-left: 400px;
+}
 /* deal section */
 .deal-data{
     display: flex;
     text-align: center;
     margin-top: 50px;
-    margin-right:auto ;
+margin-left: 400px;
 
 }
 /* form-section */
