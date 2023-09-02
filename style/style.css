@@ -112,10 +112,23 @@ text-align:center ;
     display: block;
     text-align: center;
 }
+
 /* image section */
 .imagee{
     display: flex;
     margin: 20px;
+}
+#img-1{
+    margin-right: 5px;
+}
+#img-2{
+    margin-right: 5px;
+}
+#img-3{
+    margin-right: 5px;
+}
+#img-4{
+    margin-right: 5px;
 }
 /* last section */
 .get-deal{
@@ -130,12 +143,37 @@ text-align:center ;
     
     
 }
+/* deal section */
 .deal-data{
     display: flex;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-right:auto ;
+
 }
+/* form-section */
+.form-section{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 30px;
+    display: block;
+    background-color: aqua;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+#form-section{
+    
+    display: block;
+    margin: 20px, 40px, 40px, 30px;
+    margin-left: 50px;
+    padding: 20px,30px,40px,50px;
+}
+#form{
+    text-align: center;
+    margin-left: 100px;
+}
+/* footer-section */
 .footer{
     background-color: black;
     text-align: center;
